@@ -29,4 +29,4 @@ GitHub Repository:
 🔗 https://github.com/mdsana14/experiment1.git
 
 Live Output:
-🌐 https://your-live-link.com/project1-shopping-cart
+🌐 https://mdsana14.github.io/experiment1/
