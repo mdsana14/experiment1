@@ -26,7 +26,7 @@ Open index.html in a browser.
 Navigate through login, register, catalog, and cart.
 
 GitHub Repository:
-🔗 https://github.com/yourusername/project1-shopping-cart
+🔗 https://github.com/mdsana14/experiment1.git
 
 Live Output:
 🌐 https://your-live-link.com/project1-shopping-cart
