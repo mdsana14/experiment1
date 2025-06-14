@@ -31,6 +31,7 @@ GitHub Repository:
 Live Output:
 🌐 https://mdsana14.github.io/experiment1/
 Screenshots:
-![Uploading Screenshot (46).png…]()
+![Screenshot (46)](https://github.com/user-attachments/assets/4f8a0aa9-e324-4846-a537-10a5236a406c)
+
 
 
